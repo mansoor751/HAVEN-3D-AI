@@ -1,0 +1,1 @@
+Worker needs the TRELLIS.2 environment and NVIDIA CUDA GPU >=24GB VRAM. Install official TRELLIS.2 dependencies first, then this folder's requirements.txt. Expose only HTTPS through a trusted reverse proxy. Do not publish WORKER_API_KEY.
